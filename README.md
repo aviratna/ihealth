@@ -40,3 +40,6 @@ Raspberry Pi, Libelium Sensor Kit, ECG Sensor to measure Heart Rate
 7. Cloud DataLab 
 8. Cloud Datastudio
 
+![image](https://user-images.githubusercontent.com/22312952/114910884-fd596a80-9e50-11eb-8080-984ad4ef25ab.png)
+
+
