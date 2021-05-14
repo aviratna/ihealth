@@ -1,4 +1,7 @@
 # ihealth
+
+**Medium Link**: https://aviratna.medium.com/i-health-remote-monitoring-of-patients-using-iot-devices-public-cloud-aws-google-cloud-azure-7f30234e3e4a
+
 To monitor patient health remotely and collect data for better understanding & early detection
 To connect the Doctors with Patients in remote areas
 
